@@ -2,7 +2,12 @@
   <img src="H3.png" alt="PP" width="125">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=4000&pause=1000&color=C443DE&background=691BFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile+!)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 ## About me: 
 - **I'm Enzo, a BTS CIEL student.**
 - **I'm a cybersecurity enthusiast.**
