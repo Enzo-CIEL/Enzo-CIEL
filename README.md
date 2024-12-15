@@ -1,5 +1,5 @@
-<p>
-  <img src="H3.png" alt="PP">
+<p align="center">
+  <img src="H3.png" alt="PP" width="125">
 </p>
 <h1 align="center">Welcome to my github!</h1>
 
