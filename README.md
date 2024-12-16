@@ -23,5 +23,5 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=Enzo-CIEL&theme=synthwave" alt="Infos">
 </p>
 <p align="center">
-  <img height="20" src="https://cdn.simpleicons.org/tails?viewbox=auto" alt="Tails">
+  <img height="50" src="https://cdn.simpleicons.org/tails?viewbox=auto" alt="Tails">
 </p>
