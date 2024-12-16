@@ -31,4 +31,7 @@
   <img height="50" src="https://cdn.simpleicons.org/torproject/c443de" alt="Tor">
   <img height="50" src="https://cdn.simpleicons.org/raspberrypi/c443de" alt="Raspberry">
   <img height="50" src="https://cdn.simpleicons.org/html5/c443de" alt="HTML">
+  <img height="50" src="https://cdn.simpleicons.org/python/c443de" alt="HTML">
+  <img height="50" src="https://cdn.simpleicons.org/go/c443de" alt="HTML">
+  <img height="50" src="https://cdn.simpleicons.org/hackthebox/c443de" alt="HTML">
 </p>
