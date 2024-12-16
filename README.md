@@ -34,4 +34,7 @@
   <img height="50" src="https://cdn.simpleicons.org/python/c443de" alt="HTML">
   <img height="50" src="https://cdn.simpleicons.org/go/c443de" alt="HTML">
   <img height="50" src="https://cdn.simpleicons.org/hackthebox/c443de" alt="HTML">
+  <img height="50" src="https://cdn.simpleicons.org/nasa/c443de" alt="HTML">
+  <img height="50" src="https://cdn.simpleicons.org/plex/c443de" alt="HTML">
+  <img height="50" src="https://cdn.simpleicons.org/ubuntu/c443de" alt="HTML">
 </p>
