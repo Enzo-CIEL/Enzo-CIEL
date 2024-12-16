@@ -24,4 +24,6 @@
 </p>
 <p align="center">
   <img height="50" src="https://cdn.simpleicons.org/tails?viewbox=auto" alt="Tails">
+  <img height="50" src="https://cdn.simpleicons.org/linux?viewbox=auto" alt="Linux">
+  <img height="50" src="https://cdn.simpleicons.org/c?viewbox=auto" alt="C">
 </p>
