@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=Enzo-CIEL&theme=synthwave" alt="Infos">
 </p>
 <p align="center">
-  <img height="50" src="https://cdn.simpleicons.org/tails?viewbox=auto/c443de" alt="Tails">
+  <img height="50" src="https://cdn.simpleicons.org/tails?color=red" alt="Tails">
   <img height="50" src="https://cdn.simpleicons.org/linux?viewbox=auto/c443de" alt="Linux">
   <img height="50" src="https://cdn.simpleicons.org/c?viewbox=auto/black" alt="C">
 </p>
