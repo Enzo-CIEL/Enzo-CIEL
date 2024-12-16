@@ -26,4 +26,9 @@
   <img height="50" src="https://cdn.simpleicons.org/tails/c443de" alt="Tails">
   <img height="50" src="https://cdn.simpleicons.org/linux/c443de" alt="Linux">
   <img height="50" src="https://cdn.simpleicons.org/c/c443de" alt="C">
+  <img height="50" src="https://cdn.simpleicons.org/css3/c443de" alt="Css">
+  <img height="50" src="https://cdn.simpleicons.org/javascript/c443de" alt="JS">
+  <img height="50" src="https://cdn.simpleicons.org/torproject/c443de" alt="Tor">
+  <img height="50" src="https://cdn.simpleicons.org/raspberrypi/c443de" alt="Raspberry">
+  <img height="50" src="https://cdn.simpleicons.org/html5/c443de" alt="HTML">
 </p>
