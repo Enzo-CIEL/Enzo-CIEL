@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/?username=Enzo-CIEL&theme=synthwave&locale=fr" alt="Infos">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Enzo-CIEL&theme=synthwave&custom_title=test" alt="Infos">
 </p>
 <p align="center">
   <img height="50" src="https://cdn.simpleicons.org/tails/c443de" alt="Tails">
