@@ -10,9 +10,10 @@
 <br>
 
 <h2 align="center">About me</h2>
-
+<br> 
 
 - **I'm a cybersecurity enthusiast.**
+- **Also an IT student.**
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Enzo-CIEL&color=c443de" alt="Top Languages">
