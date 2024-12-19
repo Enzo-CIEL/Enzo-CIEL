@@ -8,8 +8,8 @@
   </a>
 </h1>
 
-## About me: 
-- **I'm Enzo, a BTS CIEL student.**
+<p align="center"> ## About me</p>
+
 - **I'm a cybersecurity enthusiast.**
 
 <p>
