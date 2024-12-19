@@ -20,9 +20,6 @@
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-CIEL&theme=synthwave" alt="Top Languages">
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/?username=Enzo-CIEL&theme=synthwave&custom_title=‎Stats&rank_icon=github" alt="Infos">
 </p>
 <p align="center">
