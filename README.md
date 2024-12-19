@@ -24,6 +24,9 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Enzo-CIEL&theme=synthwave&custom_title=‎Stats&rank_icon=github" alt="Infos">
   </div>
 </p>
+
+<br>
+
 <p align="center">
   <img height="50" src="https://cdn.simpleicons.org/tails/c443de" alt="Tails">
   <img height="50" src="https://cdn.simpleicons.org/linux/c443de" alt="Linux">
