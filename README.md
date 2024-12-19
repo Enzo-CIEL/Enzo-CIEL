@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&size=30&duration=4000&pause=1000&color=C443DE&background=691BFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github+profile+!;I'm+Enzo,+a+BTS+CIEL+student.">
   </a>
 </h1>
+<br>
 
 <h2 align="center">About me</h2>
 
