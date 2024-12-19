@@ -19,8 +19,12 @@
   <img src="https://komarev.com/ghpvc/?username=Enzo-CIEL&color=c443de" alt="Top Languages">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-CIEL&theme=synthwave" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Enzo-CIEL&theme=synthwave&custom_title=‎Stats&rank_icon=github" alt="Infos">
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-CIEL&theme=synthwave" alt="Top Languages">
+  </div>
+  <div align="right">
+    <img src="https://github-readme-stats.vercel.app/api/?username=Enzo-CIEL&theme=synthwave&custom_title=‎Stats&rank_icon=github" alt="Infos">
+  </div>
 </p>
 <p align="center">
   <img height="50" src="https://cdn.simpleicons.org/tails/c443de" alt="Tails">
